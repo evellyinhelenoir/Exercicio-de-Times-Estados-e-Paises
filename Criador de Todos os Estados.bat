@@ -11,3 +11,19 @@ md "Mato Grosso do Sul"
 
 cd..
 
+md "Nordeste"
+cd "Nordeste"
+
+md "Maranhao"
+md "Piaui"
+md "Ceara"
+md "Rio Grande do Norte"
+md "Paraiba"
+md "Pernambuco"
+md "Alagoas"
+md "Sergipe"
+md "Bahia"
+
+cd..
+
+
