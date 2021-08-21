@@ -48,5 +48,15 @@ md "Rio Grande do Sul"
 
 cd..
 
+md "Sudeste"
+cd "Sudeste"
+
+md "Sao Paulo"
+md "Minas Gerais"
+md "Rio de Janeiro"
+md "Espirito Santo"
+
+cd.. 
+
 
 
