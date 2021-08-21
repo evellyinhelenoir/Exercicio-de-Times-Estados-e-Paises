@@ -39,5 +39,14 @@ md "Roraima"
 
 cd..
 
+md "Sul"
+cd "Sul"
+
+md "Parana"
+md "Santa Catarina"
+md "Rio Grande do Sul"
+
+cd..
+
 
 
