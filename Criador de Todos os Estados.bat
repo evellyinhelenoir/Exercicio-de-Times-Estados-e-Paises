@@ -26,4 +26,18 @@ md "Bahia"
 
 cd..
 
+md "Norte"
+cd "Norte"
+
+md "Para"
+md "Amazonas"
+md "Amapa"
+md "Acre"
+md "Tocantins"
+md "Rondonia"
+md "Roraima"
+
+cd..
+
+
 
