@@ -5,6 +5,7 @@ md "Serie A"
 md "Serie B"
 
 cd "Serie A"
+
 md "Flamengo"
 md "Palmeiras"
 md "Atletico Mineiro"
@@ -26,3 +27,29 @@ md "America Mineiro"
 md "Sport Recife"
 md "Chapecoense"
 
+cd..
+
+cd "Serie B"
+
+md "Vasco da Gama"
+md "Bota Fogo"
+md "Goias EC"
+md "Cruzeiro EC"
+md "Coritiba FC"
+md "AA Ponte Preta"
+md "Nautico"
+md "Avai FC"
+md "Guarani FC"
+md "CSA"
+md "CRB"
+md "Operario FEC"
+md "Vila Nova FC"
+md "EC Vitoria"
+md "Londrina EC"
+md "Clube do Remo"
+md "GE Brasil"
+md "AD Confianca"
+md "Brusque FC"
+md "Sampaio Correa FC"
+
+cd..
